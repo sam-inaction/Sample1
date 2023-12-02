@@ -1,11 +1,6 @@
 
 1st LIne
-<<<<<<< HEAD
 
-=======
-<<<<<<< HEAD
->>>>>>> f2be70afaf8dfc1694b908e5c19cd27b1a463e88
-2nd Line- revised
-=======
-2nd Line
->>>>>>> cae9998f86df031d09b47e2300dde5bbc5938cb7
+
+
+
